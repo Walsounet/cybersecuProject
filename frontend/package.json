@@ -1,0 +1,33 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "@dvuckovic/vue3-bootstrap-icons": "^1.0.5",
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/vue-fontawesome": "^2.0.6",
+    "@meforma/vue-toaster": "^1.3.0",
+    "@popperjs/core": "^2.11.4",
+    "axios": "^0.26.1",
+    "bootstrap": "^5.1.3",
+    "bootstrap-icons": "^1.8.1",
+    "bootstrap-vue-3": "^0.1.9",
+    "gitart-vue-dialog": "^2.3.1",
+    "pinia": "^2.0.11",
+    "vue": "^3.2.31",
+    "vue-3-socket.io": "^1.0.5",
+    "vue-cal": "^4.2.0",
+    "vue-router": "^4.0.12",
+    "vue-select": "^4.0.0-beta.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.2",
+    "vite": "^2.8.4"
+  }
+}
